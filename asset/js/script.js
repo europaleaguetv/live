@@ -7,7 +7,7 @@ const overlayText = document.getElementById('overlayText');
 const timerElement = document.getElementById('timer');
 const totalDuration = 2 * 60 * 60;
 let elapsedTime = 0;
-let countdown = 10;
+let countdown = 30;
 
 // Fungsi untuk menyembunyikan elemen overlay dan tombol register
 const hideOverlayAndRegisterButton = () => {
