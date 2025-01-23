@@ -60,8 +60,8 @@ const addNavigationListener = (buttonId, url) => {
 
 // Daftarkan pendengar acara untuk tombol REGISTER dan START
 const initializeNavigation = () => {
-    addNavigationListener("registerButton", "https://six.sportshd1.com/register.php");
-    addNavigationListener("startButton", "https://six.sportshd1.com/register.php");
+    addNavigationListener("registerButton", "https://livetv.4k-sports.net/registersoccer.php");
+    addNavigationListener("startButton", "https://livetv.4k-sports.net/registersoccer.php");
 };
 
 // Jalankan fungsi inisialisasi saat dokumen siap
