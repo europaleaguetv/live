@@ -464,8 +464,9 @@ body::before {
     }
 
     .navbar img {
-        width: 50px;
-        height: auto;
+        margin: 3px;
+        width: 38px;
+        height: 38px;
     }
 
     .navbar .navbar-brand {
@@ -571,8 +572,9 @@ body::before {
     }
 
     .navbar img {
-        width: 50px;
-        height: auto;
+        margin: 3px;
+        width: 38px;
+        height: 38px;
     }
 
     .navbar .navbar-brand {
@@ -685,6 +687,11 @@ body::before {
 /* Handphone Ukuran 425px */
 /* =============================== */
 @media (max-width: 425px) {
+    .navbar img {
+        margin: 3px;
+        width: 38px;
+        height: 38px;
+    }
     .card-body-custom {
         padding: 8px;
     }
@@ -725,6 +732,11 @@ body::before {
 /* Handphone potret */ 
 /* =============================== */
 @media (max-width: 480px) {
+    .navbar img {
+        margin: 3px;
+        width: 38px;
+        height: 38px;
+    }
     .card-body-custom {
         padding: 8px;
     }
@@ -766,6 +778,11 @@ body::before {
 /* Handphone Ukuran 400px */
 /* =============================== */
 @media (max-width: 400px) {
+    .navbar img {
+        margin: 3px;
+        width: 28px;
+        height: 28px;
+    }
     .navbar {
         width: 100%;
         height: 50px;
@@ -840,6 +857,11 @@ body::before {
 /* Handphone Ukuran 375px */
 /* =============================== */
 @media (max-width: 375px) {
+    .navbar img {
+        margin: 1px;
+        width: 34px;
+        height: 34px;
+    }
     .text-center .text-title {
         font-size: 12px;
     }
@@ -889,6 +911,11 @@ body::before {
 /* Handphone Ukuran 320px */
 /* =============================== */
 @media (max-width: 320px) {
+    .navbar img {
+        margin: 1px;
+        width: 34px;
+        height: 34px;
+    }
     .text-center .text-title {
         font-size: 10px;
     }
