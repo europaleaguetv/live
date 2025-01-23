@@ -32,7 +32,7 @@ const updateProgressBar = () => {
 const updateTimer = () => {
     if (countdown > 0) {
         countdown--;
-        timerElement.querySelector('.timer-text').textContent = `Timer: 00:00:${countdown.toString().padStart(2, '0')}`;
+        timerElement.querySelector('.timer-text').textContent = `00:00:${countdown.toString().padStart(2, '0')}`;
     } else {
         clearInterval(timerInterval);
         overlayText.style.display = 'block';
