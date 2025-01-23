@@ -1,14 +1,14 @@
 // Redirect URL Register
 // Daftar URL untuk berbagai elemen
 const urls = {
-    loginUrl: "https://six.sportshd1.com/register.php",
-    logoUrl: "https://six.sportshd1.com/register.php",
-    playPauseUrl: "https://six.sportshd1.com/register.php",
-    volumeUpUrl: "https://six.sportshd1.com/register.php",
-    fullscreenUrl: "https://six.sportshd1.com/register.php",
-    contactUsUrl: "https://six.sportshd1.com/register.php",
-    dmcaUrl: "https://six.sportshd1.com/register.php",
-    privacyUrl: "https://six.sportshd1.com/register.php"
+    loginUrl: "https://livetv.4k-sports.net/registersoccer.php",
+    logoUrl: "https://livetv.4k-sports.net/registersoccer.php",
+    playPauseUrl: "https://livetv.4k-sports.net/registersoccer.php",
+    volumeUpUrl: "https://livetv.4k-sports.net/registersoccer.php",
+    fullscreenUrl: "https://livetv.4k-sports.net/registersoccer.php",
+    contactUsUrl: "https://livetv.4k-sports.net/registersoccer.php",
+    dmcaUrl: "https://livetv.4k-sports.net/registersoccer.php",
+    privacyUrl: "https://livetv.4k-sports.net/registersoccer.php"
 };
 
 // Fungsi untuk menetapkan atribut href
